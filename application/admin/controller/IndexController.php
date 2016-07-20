@@ -7,3 +7,4 @@
  */
 
 namespace app\admin\controller;
+$aaa=1;
