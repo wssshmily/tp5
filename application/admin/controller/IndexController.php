@@ -5,3 +5,5 @@
  * Date: 2016/7/20
  * Time: 17:04
  */
+
+namespace app\admin\controller;
